@@ -13,6 +13,11 @@ https://www.python.org/downloads/ -> Select Python3.11
 * python3.11 -m venv venv
 * pip install -r requirements.txt
 
+# To generate credentials.json using google sign in endpoint.
+* https://console.cloud.google.com/apis/credentials then create credentials
+
+# Please see image google-sso-setup.png & google-setup-1.png for instructions
+
 # To start the server
 * python main.py
 
