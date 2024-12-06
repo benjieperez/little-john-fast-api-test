@@ -19,7 +19,7 @@ https://www.python.org/downloads/ -> Select Python3.11
 ## Available API Endpoints 
 
 # Google SSO API Endpoint
-* http://localhost:8080/auth/login
+* http://localhost:8080/auth/register
 
 # For Upload File Endpoint
 * http://localhost:8080/user/upload_file

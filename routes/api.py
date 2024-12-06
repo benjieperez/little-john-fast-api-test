@@ -52,7 +52,7 @@ class API:
 
         # Setup custom router with prefix and routes
         Router(self.app).prefix("auth")\
-            .get("login", self.auth_handler.login)\
+            .get("register", self.auth_handler.register)\
             .get("callback", self.auth_handler.callback)\
             .include_router()
 

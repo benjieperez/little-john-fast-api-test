@@ -21,7 +21,7 @@ class AuthenticationHandler:
             "https://www.googleapis.com/auth/userinfo.email",  # User's email address
         ]
 
-    async def login(self):
+    async def register(self):
         flow = Flow.from_client_config(
             client_config=self.GOOGLE_CLIENT_CREDENTIALS_DATA,
             scopes=self.SCOPES,
