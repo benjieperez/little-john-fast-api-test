@@ -2,7 +2,9 @@
 This is the Project Repository for Backend Test for Little John
 
 # Setup & Install PostgresSQL
-https://www.postgresql.org/download/
+* https://www.postgresql.org/download/
+
+* Create db according to your preference, then migrate `users.sql`.
 
 # Install Python
 https://www.python.org/downloads/ -> Select Python3.11
