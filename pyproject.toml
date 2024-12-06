@@ -1,0 +1,7 @@
+[project]
+name = "LITTLE-JOHN-BACKEND-TEST"
+version = "0.1.0"
+description = "REST API used for LITTLE JOHN BACKEND TEST"
+authors = [
+    { name = "Benjamin Perez", email = "benjieperez28@gmail.com" }
+]
