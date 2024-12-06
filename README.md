@@ -10,7 +10,7 @@ This is the Project Repository for Backend Test for Little John
 https://www.python.org/downloads/ -> Select Python3.11
 
 # To Run the App, run this in terminal accordingly
-*  python3.11 -m venv venv
+* python3.11 -m venv venv
 * pip install -r requirements.txt
 
 # To start the server
